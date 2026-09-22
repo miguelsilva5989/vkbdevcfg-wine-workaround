@@ -121,4 +121,5 @@ DirectInput capabilities / null drawing objects without an exception loop.
 The repository contains source and focused evidence. The evidence directory
 contains only controller enumeration, the HID descriptor, the official
 application hash and a short exception excerpt. It contains no Windows/Wine
-binaries, Wine prefix, device serial number, screenshot or full diagnostic log.
+binaries, Wine prefix, device serial number or full diagnostic log. A reviewed
+application screenshot is displayed separately in the repository README.

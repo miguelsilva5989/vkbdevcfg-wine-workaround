@@ -11,6 +11,15 @@ extra entries allows its Buttons/POVs and Axes screens to operate.
 This is an **unofficial workaround**, not an upstream Wine patch or an official
 VKB release. It does not modify the VKB executable or controller firmware.
 
+## Test screen running under Wine
+
+VKBDevCfg v0.93.89 displaying Test → Axes with the Gladiator EVO R detected
+as a Wine HID device, after applying the workaround.
+
+![VKBDevCfg Test Axes screen running under Wine with the Gladiator EVO R detected](docs/images/test-axes-wine.png)
+
+The terminal strip was cropped for privacy; the application image is unaltered.
+
 ## Build and use
 
 Read **[the complete build and installation guide](docs/BUILD.md)**. With an

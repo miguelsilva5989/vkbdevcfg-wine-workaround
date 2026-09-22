@@ -22,3 +22,6 @@ build-info.json
 *.pem
 *.key
 __pycache__/
+
+# Reviewed README screenshot
+!docs/images/test-axes-wine.png
