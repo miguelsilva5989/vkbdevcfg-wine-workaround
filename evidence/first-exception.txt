@@ -1,0 +1,7 @@
+VKBDevCfg-C v0.93.89, Wine 11.16, Test -> Buttons/POVs
+Exception: ACCESS_VIOLATION (0xC0000005)
+Faulting instruction: 0x008ECF1D, mov eax, [ebx+0x10]
+EBX: 0x00000000
+Read address: 0x00000010
+Observed call path: 0x00422B54 -> 0x004E5D8C -> 0x004E5DAA -> 0x008ECF1D
+Excerpt only; full logs and process-memory stack dumps are not included.
